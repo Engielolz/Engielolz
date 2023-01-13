@@ -1,6 +1,7 @@
 looks like you found my github thing
 
+i'm fairly new to github and git in general, but i need to "git good" because of [nfs](https://github.com/Engielolz/nfs_functions)
+
 <!---
-Engielolz/Engielolz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+u are very sneaky looking at the file
 --->

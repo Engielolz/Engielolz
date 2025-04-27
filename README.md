@@ -1,7 +1,7 @@
-looks like you found my github thing
+this is my github thing but you should check out my [tangled](https://tangled.sh/@did:plc:s2cyuhd7je7eegffpnurnpud) instead
 
-i'm fairly new to github and git in general, but i need to "git good" because of [nfs](https://github.com/Engielolz/nfs_functions)
+i've been moving things there and this account will be mostly empty in the future.
 
 <!---
-u are very sneaky looking at the file
+the game
 --->
